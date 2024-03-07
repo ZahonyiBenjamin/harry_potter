@@ -1,0 +1,58 @@
+body{
+    font-size: 20px;
+}
+
+button{
+    margin: 20px;
+    background-color: rgb(96, 160, 255);
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+button:hover{
+    background-color: rgb(131, 181, 255);
+}
+
+h1{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.kepek{
+    height: 400px;
+    width: 300px;
+    border: 5px solid rgb(65, 65, 255);
+    box-shadow: 10px 10px 10px rgb(9, 9, 165);
+}
+.kepek2{
+    height: 400px;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.dobozok{
+    background-color: rgb(162, 199, 255);
+    margin: 10px;
+    padding: 30px;
+    padding-bottom: 10px;
+    border: 5px solid rgb(0, 0, 170);
+}
+
+.doboz-nevek{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Gill Sans';
+    color: rgb(0, 0, 139);
+    letter-spacing: 2px;
+}
+
+.modal-title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.modal-body{
+    text-align: center;
+}
